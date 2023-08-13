@@ -1,0 +1,20 @@
+@media screen and (max-width: 900px) and (min-width: 600px) {
+     .whoweare {
+        background-image: linear-gradient(45deg, rgb(140, 230, 189),rgba(135, 157, 115, 0.92)  );
+    }
+  }
+  @media screen and (max-width: 900px) and (min-width: 600px) {
+    .buldinginformation {
+        background-image: linear-gradient(180deg, rgb(135, 208, 227),rgb(234, 160, 218));
+   }
+ }
+ @media screen and (max-width: 900px) and (min-width: 600px) {
+    .welcomedigi {
+        background-image: linear-gradient(45deg, rgb(249, 228, 171),rgba(84, 107, 90, 0.799));
+   }
+ }
+ @media screen and (max-width: 844px) and (min-width: 390px) {
+  .staffing-demo {
+              margin-bottom: 2rem;
+ }
+}

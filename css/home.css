@@ -1,0 +1,103 @@
+.footer-list li a {
+    line-height: 40px;
+}
+.nav-link{
+    font-size: 15px;
+    font-weight: 20px;
+}
+.sri-sudhatri{
+    font-size: 8px;
+}
+.about-our{
+ font-weight: 300;
+ font-size: 30px;
+}
+.organization{
+    font-weight: 700;
+    color: orange;
+}
+.aboutpara{
+    font-size: 15px;
+    font-weight: 480;
+    line-height: 25px;
+    word-spacing: 2.5px;
+}
+.whoweare{
+    background-image: linear-gradient(45deg, rgb(98, 142, 203),rgba(221, 229, 214, 0.92)  );
+    min-height: 480px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+    
+}
+.who{
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+.whopara{
+    font-size: 15px;
+    font-weight: 480;
+    line-height: 28px;
+    word-spacing: 2.8px;
+}
+.what{
+    font-size: 30px;
+    font-weight: 300;
+}
+.card-title{
+    font-size: 15px;
+    font-weight: 600;
+}
+.card-text{
+    font-size: small;
+    word-spacing: 2.5px;
+}
+.customerpara{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    word-spacing: 2.5px;
+}
+.buldinginformation{
+    margin-top: 30px;
+    background-image: linear-gradient(180deg, rgb(210, 228, 219),rgb(113, 218, 218));
+    min-height: 480px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+.buildingpara{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    word-spacing: 2.5px;
+}
+.welcomedigi{
+    margin-top: 30px;
+    background-image: linear-gradient(45deg, rgb(128, 78, 234),rgba(163, 236, 232, 0.799));
+    min-height: 480px;
+    display: flex;
+    justify-content: center;
+    align-self: center;  
+
+}
+.digipara{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    word-spacing: 2.5px;
+}
+.footpara{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    word-spacing: 2.5px;
+}
+.address{
+    line-height: 40px;
+}
+.placeholder{
+    font-size: 10px;
+}
